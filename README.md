@@ -6,7 +6,7 @@ npm install
 npm run dev
 ```
 
-Server
+Server</br>
 create .env similar to env.sample provided
 
 ```sh
