@@ -1,13 +1,13 @@
 # Prisma React Express Mongodb
 ## JWT Auth
 
-Client
+### Client
 * React
 * Typescript
 * React Query
 * Material UI
 
-Server
+### Server
 * Express
 * Prisma
 * MongoDB
