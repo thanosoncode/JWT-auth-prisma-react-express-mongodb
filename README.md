@@ -1,4 +1,16 @@
-# JWT-auth using prisma-react-express-mongodb
+# Prisma React Express Mongodb
+## JWT Auth
+
+Client
+* React
+* Typescript
+* React Query
+* Material UI
+
+Server
+* Express
+* Prisma
+* MongoDB
 
 Client
 ```sh
