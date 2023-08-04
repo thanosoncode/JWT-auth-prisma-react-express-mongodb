@@ -12,7 +12,7 @@
 * Prisma
 * MongoDB
 
-<br/>
+
 Client
 ```sh
 npm install
